@@ -1,0 +1,38 @@
+// Stefan Retief
+// CS211 game.C, HW4
+// Output File
+// ======================================================
+
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+7 / 2 = 3
+7 * 5 = 35
+4 + 10 = 14
+7 + 5 = 12
+Congratulations! You win!
+You answered 4 questions correctly.
+
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+9 - 1 = 8
+7 - 6 = 1
+9 * 7 = 63
+You lose!
+You answered 3 questions correctly.
+
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+6 - 2 = 5
+WRONG. try again. 6 - 2 = 4
+9 * 5 = 45
+8 + 7 = 15
+6 * 7 = 42
+10 / 3 = 3
+8 * 8 = 64
+9 + 1 = 10
+3 * 6 = 18
+10 / 6 = 1
+10 / 8 = 1
+Congratulations! You win!
+You answered 10 questions correctly.
+
+COMMENT:
+I changed the range of numbers for testing because I suck at math.
+I didn't want to lose every time for testing.

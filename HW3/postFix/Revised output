@@ -1,0 +1,19 @@
+// Stefan Retief
+// CS211 postFixRevised, HW3
+// PostFixRevised Output
+// ======================================================
+
+Enter the expression you would like to evaluate: 300 50 60 + -
+= 190
+
+Enter the expression you would like to evaluate: 30 40 500 60 7 800 + + + + +
+Stack is full. The operand cannot be pushed.
+
+Enter the expression you would like to evaluate: 200 +
+Stack is empty. There are not enough operands.
+
+Enter the expression you would like to evaluate: %
+Invalid expression.
+
+Enter the expression you would like to evaluate: 300 50 60 +
+Incomplete expression was found.

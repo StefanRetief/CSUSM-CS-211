@@ -1,0 +1,34 @@
+// Stefan Retief
+// CS211 palindrome, HW6
+// palindrome Output
+// ======================================================
+
+Enter a string: racecar
+racecar IS a palindrome.
+
+Enter a string: race car
+race car IS a palindrome.
+
+Enter a string: pop
+pop IS a palindrome.
+
+Enter a string: ada
+ada IS a palindrome.
+
+Enter a string: Anna
+Anna IS a palindrome.
+
+Enter a string: Anna
+Anna IS a palindrome.
+
+Enter a string: A Toyota! Race fast, safe car! A Toyota!
+A Toyota! Race fast, safe car! A Toyota! IS a palindrome.
+
+Enter a string: abcdba
+abcdba IS NOT a palindrome.
+
+Enter a string: Santa at Nasa
+Santa at Nasa IS NOT a palindrome.
+
+Enter a string: as in nasa
+as in nasa IS NOT a palindrome.

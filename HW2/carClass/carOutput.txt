@@ -1,0 +1,10 @@
+/****************************************************************************/
+/* INFO: CarClient.C Output                                                 */
+/* IMPLEMENTED BY: Stefan Retief                                            */
+/* DATE: February 24, 2016                                                  */
+/****************************************************************************/
+
+White Toyota Celica (2016) is at location (2,3) with mileage 5 miles.
+Black Honda Civic (2008) is at location (-3,1) with mileage 20006
+miles.
+Red Toyota Celica (2016) is at location (2,3) with mileage 5 miles.

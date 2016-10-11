@@ -1,0 +1,96 @@
+// Stefan Retief
+// CS211 LAB 11-2, HW7
+// LL Class - Output File
+// ======================================================
+
+TEST deleteNode **************************************************************
+[3] [9] [2] [1] [9] [11]
+
+ELEMENT FOUND! FIRST 9 ELEMENT DELETED!
+[3] [2] [1] [9] [11]
+
+ELEMENT FOUND! FIRST 9 ELEMENT DELETED!
+[3] [2] [1] [11]
+
+ELEMENT NOT FOUND!
+[3] [2] [1] [11]
+
+ELEMENT FOUND! FIRST 3 ELEMENT DELETED!
+[2] [1] [11]
+
+ELEMENT FOUND! FIRST 11 ELEMENT DELETED!
+[2] [1]
+
+ELEMENT FOUND! FIRST 1 ELEMENT DELETED!
+[2]
+
+ELEMENT FOUND! FIRST 2 ELEMENT DELETED!
+[EMPTY]
+
+
+TEST addInOrder**************************************************************
+[5]
+
+[1] [5]
+
+[1] [3] [5]
+
+[0] [1] [3] [5]
+
+[0] [1] [3] [5] [7]
+
+[0] [1] [3] [5] [7] [7]
+
+[0] [1] [3] [5] [5] [7] [7]
+
+[0] [0] [1] [3] [5] [5] [7] [7]
+
+TEST Search **************************************************************
+1
+1
+1
+1
+0
+##### EXTRA CREDIT -  TEST deleteNodes (all occurences) **************************************************************
+[3] [9] [2] [1] [9] [11]
+
+ELEMENT FOUND! ALL 9 ELEMENTS DELETED!
+[3] [2] [1] [11]
+
+[3] [2] [1] [11] [3]
+
+ELEMENT FOUND! ALL 3 ELEMENTS DELETED!
+[2] [1] [11]
+
+[2] [1] [11] [5]
+
+ELEMENT FOUND! ALL 2 ELEMENTS DELETED!
+[1] [11] [5]
+
+ELEMENT FOUND! ALL 11 ELEMENTS DELETED!
+[1] [5]
+
+ELEMENT FOUND! ALL 5 ELEMENTS DELETED!
+[1]
+
+ELEMENT FOUND! ALL 1 ELEMENTS DELETED!
+[EMPTY]
+
+##### EXTRA CREDIT - TEST addInOrderDescend **************************************************************
+[5]
+
+[5] [1]
+
+[5] [3] [1]
+
+[5] [3] [1] [0]
+
+[7] [5] [3] [1] [0]
+
+[7] [7] [5] [3] [1] [0]
+
+[7] [7] [5] [5] [3] [1] [0]
+
+[7] [7] [5] [5] [3] [1] [0] [0]
+
+Program ended with exit code: 0

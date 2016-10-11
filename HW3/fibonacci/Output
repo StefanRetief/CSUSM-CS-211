@@ -1,0 +1,29 @@
+// Stefan Retief
+// CS211 fibonacci, HW3
+// Fibonacci Output
+// ======================================================
+
+Enter a position: 0
+Elapsed time: 0.003 milliseconds
+Fibonnaci number at position 0 is 0
+Elapsed time: 0.001 milliseconds
+Fibonnaci number at position 0 is 0
+
+Enter a position: 10
+Elapsed time: 0.003 milliseconds
+Fibonnaci number at position 10 is 55
+Elapsed time: 0.005 milliseconds
+Fibonnaci number at position 10 is 55
+
+Enter a position: 20
+Elapsed time: 0.003 milliseconds
+Fibonnaci number at position 20 is 6765
+Elapsed time: 0.098 milliseconds
+Fibonnaci number at position 20 is 6765
+Program ended with exit code: 0
+
+Enter a position: 46
+Elapsed time: 0.004 milliseconds
+Fibonnaci number at position 46 is 1836311903
+Elapsed time: 15291.4 milliseconds
+Fibonnaci number at position 46 is 1836311903

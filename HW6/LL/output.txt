@@ -1,0 +1,30 @@
+// Stefan Retief
+// CS211 LL, HW6
+// LL Client Output
+// ======================================================
+
+
+BEGIN TEST:
+DISPLAY ALL: [3] [2] [1] [4] [5]
+
+REMOVE FRONT AND REAR:
+REMOVE 3
+REMOVE 5
+DISPLAY ALL: [2] [1] [4]
+
+REMOVE FRONT AND REAR:
+REMOVE 2
+REMOVE 4
+DISPLAY ALL: [1]
+
+REMOVE FRONT:
+REMOVE 1
+DISPLAY ALL: [EMPTY]
+
+ADD REAR(10) AND FRONT(11):
+DISPLAY ALL: [11] [10]
+
+REMOVE REAR TWICE:
+REMOVE 10
+REMOVE 11
+DISPLAY ALL: [EMPTY]

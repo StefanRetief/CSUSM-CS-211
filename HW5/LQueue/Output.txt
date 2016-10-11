@@ -1,0 +1,17 @@
+// Stefan Retief
+// CS211 LQueue, HW5
+// LQueue Output
+// ======================================================
+
+Linked list is empty
+[EMPTY]
+[1]
+[1] [2] [3] [4]
+ELEMENT REMOVED: 1
+ELEMENT REMOVED: 2
+ELEMENT REMOVED: 3
+[4]
+Linked list is not empty
+ELEMENT REMOVED: 4
+Linked list is empty
+[EMPTY]

@@ -1,0 +1,17 @@
+The stack is empty
+
+Kathy is at the top.
+
+The stack is full
+
+Tom
+Alice
+Dave
+Kathy
+Mike
+
+The stack is full
+
+Alice is at the top.
+
+The stack is empty

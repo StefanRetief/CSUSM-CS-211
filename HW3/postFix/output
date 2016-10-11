@@ -1,0 +1,19 @@
+// Stefan Retief
+// CS211 postFix, HW3
+// PostFix Output
+// ======================================================
+
+Enter the expression you would like to evaluate: 356+-
+356+- = -8
+
+Enter the expression you would like to evaluate: 34678+++++
+Stack is full. The operand cannot be pushed.
+
+Enter the expression you would like to evaluate: 2+
+Stack is empty. There are not enough operands.
+
+Enter the expression you would like to evaluate: %
+Invalid expression.
+
+Enter the expression you would like to evaluate: 356+
+Incomplete expression was found.

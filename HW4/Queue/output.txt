@@ -1,0 +1,188 @@
+// Stefan Retief
+// CS211 Queue, HW4
+// Output File
+// ======================================================
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: a
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: b
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: c
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: d
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: e
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Queue is full. Unable to add another element.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 1
+
+Enter a character to add to the queue: f
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 6
+
+Element 1: [b]
+Element 2: [c]
+Element 3: [d]
+Element 4: [e]
+Element 5: [f]
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Element removed.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 2
+
+Queue is empty. Unable to remove an element.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 3
+
+Queue is empty. There is no front element.
+
+1: add a new element (testing add(), isFull())
+2: remove an element (testing remove(), isEmpty())
+3. check the front element (testing getFront(), isEmpty())
+4. go back to the rear (testing goToBack())
+5. get the number of elements in the queue (testing getSize())
+6. display all the elements in the queue (testing displayAll())
+7. quit program
+Menu choice: 7
+Program ended with exit code: 0

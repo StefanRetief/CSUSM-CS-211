@@ -1,0 +1,54 @@
+// Stefan Retief
+// CS211 LQueueAdd, HW5
+// LQueueAdd Output
+// ======================================================
+
+Enter a number: 1
+Enter a second number: 1
+1 + 1 = 2
+1 + 1 = 2
+
+Enter a number: 111
+Enter a second number: 111
+111 + 111 = 222
+111 + 111 = 222
+
+Enter a number: 191
+Enter a second number: 131
+191 + 131 = 223
+191 + 131 = 322
+
+Enter a number: 991
+Enter a second number: 931
+199 + 139 = 2291
+991 + 931 = 1922
+
+Enter a number: 917
+Enter a second number: 47
+719 + 74 = 469
+917 + 47 = 964
+
+Enter a number: 999
+Enter a second number: 8
+999 + 8 = 7001
+999 + 8 = 1007
+
+Enter a number: 999
+Enter a second number: 8888
+999 + 8888 = 7889
+999 + 8888 = 9887
+
+Enter a number: 999
+Enter a second number: 9888
+999 + 8889 = 78801
+999 + 9888 = 10887
+
+Enter a number: 999
+Enter a second number: 99999
+999 + 99999 = 899001
+999 + 99999 = 100998
+
+Enter a number: 222222222222222222
+Enter a second number: 333333333333333339
+222222222222222222 + 933333333333333333 = 165555555555555555
+222222222222222222 + 333333333333333339 = 555555555555555561
