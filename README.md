@@ -1,5 +1,5 @@
-This git contains all the homework files for California State University, San Marcos' Computer Science department, CS 211.
+# CS211
 
-These files are intended for educational use ONLY. I DO NOT condone the use of these files for cheating/plagerizing of these files or any of their supportive material. These files are purely for students who want to learn or are stuggling in the course, to compare their code with mine.
+In this class, we continued with learning the basics of C++. We primarily focused on classes and how to develop in a object orientated environment. We briefly went over data structures that we would ultimately use in CS311, and how to use classes correctly and efficiently.
 
-If you have any suggestions, I am open to any comments that may improve anything in the code.
+##### Professor: Kazumi Slott
